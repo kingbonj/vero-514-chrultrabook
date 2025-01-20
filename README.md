@@ -1,5 +1,5 @@
-# Vero-514-Chrultrabook Sound and Fans and Fixes
-Fixes to allow functioning Linux installation on chromebook vero 514
+# Vero-514-Chrultrabook Sound Fans and Fixes
+Fixes to allow functioning Linux installation on chromebook vero 514, including 'Dummy Audio' problems.
 
 This guide helps you configure sound and fan controls on your device. It includes setting up sound functionality and using the `sensors.py` script to automatically monitor and adjust fan speeds via `ectool`, as well as other fixes I will add as I come across them.
 
