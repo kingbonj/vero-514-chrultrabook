@@ -1,7 +1,9 @@
 # Vero-514-Chrultrabook Sound and Fans
 Fixes to allow functioning Linux installation on chromebook vero 514
 
-This guide helps you configure sound and fan controls on your device. It includes setting up sound functionality and using the `sensors.py` script to automatically monitor and adjust fan speeds via `ectool`.
+This guide helps you configure sound and fan controls on your device. It includes setting up sound functionality and using the `sensors.py` script to automatically monitor and adjust fan speeds via `ectool`, as well as other fixes I will add as I come across them.
+
+NOTE: This is an Alder-Lake device, the USBC storage seems to only recognised if it is connected at boot. I have not found a proper fix for this yet.
 
 ---
 
